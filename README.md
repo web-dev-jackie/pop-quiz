@@ -33,7 +33,7 @@ Document Object Model - "DOM"
 Get and append elements into the DOM (browser)
 Mental clarity and top focus, doesn't hurt to read the problem out loud to yourself in a quiet room. 
 
-![API's](./assignment-quiz/assets/images/api.png)
+![API's](./assets/images/api.png)
 
 All done via JavaScript.'
 
@@ -53,7 +53,7 @@ What is a data attribute? Allows you to store info on an HTML element.
 Example: 
 
 Data Attribute
-![Data attribute](./assignment-quiz/assets/images/data-attribute.png)
+![Data attribute](./assets/images/data-attribute.png)
 
 document.body.children
 

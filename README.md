@@ -1,5 +1,5 @@
 
-![Logo](./assignment-quiz/assets/images/quiz-logo.png)
+![Logo](./assets/images/quiz-logo.png)
 
 # Homework 4 notes
 

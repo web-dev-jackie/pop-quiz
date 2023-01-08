@@ -1,6 +1,19 @@
 
 ![Logo](./assets/images/quiz-logo.png)
 
+Pop quiz! 
+
+## Installation
+Option 1:
+
+1. Download as a .zip from https://github.com/web-dev-jackie/pop-quiz
+2. Open in terminal, `code .`,
+3. In VS Code, right click on index.html and open in default browser.
+
+Option 2:
+
+GitHub Pages link: https://web-dev-jackie.github.io/password-magico/
+
 # Homework 4 notes
 
     1.	Coding quiz doesn’t have to be javascript (can be about anything)
